@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Redmi_Note_10_Proton",
       "repo": "https://github.com/Anya1014CN/kernel_xiaomi_chopin",
-      "branch": "r",
+      "branch": "eleven",
       "device": "chopin",
       "defconfig": "chopin_user_defconfig"
     },
